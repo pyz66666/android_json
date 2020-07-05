@@ -1,0 +1,8 @@
+{
+    "shop":[
+        {"id":"test1" ,"sourse":"R.drawable.fg_2test"},
+        {"id":"test2" ,"sourse":"R.drawable.fg2_test2"}
+        
+    ]
+
+}
